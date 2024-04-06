@@ -1,7 +1,7 @@
 import google.generativeai as palm
 
 # Configure the API key
-palm.configure(api_key="AIzaSyDFXon8GlSm_vvOZDYbEnhr5b5o3l_4crw")
+palm.configure(api_key="")
 
 defaults = {
   'model': 'models/chat-bison-001',
